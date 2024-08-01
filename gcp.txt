@@ -1,0 +1,14 @@
+Step1:Open google cloud platform
+Step2:Choose "Get started for free"
+Step3:#Step1 of 2 Account Information
+      *Confirm mail account
+      *Select Country 
+      *Agree and continue
+Step4:#Step 2 of 2 Account Information
+      *Create a payment profile
+      *Select a payment method and give card information
+Step5:Purchase authentication
+      *An amount of Rs.2 will be deducted from your account(After an otp confirmation)
+Step6:Your account have been created 
+            
+
